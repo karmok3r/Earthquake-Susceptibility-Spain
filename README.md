@@ -1,1 +1,0 @@
-# Earthquake-Susceptibility-Spain
