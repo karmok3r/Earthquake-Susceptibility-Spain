@@ -87,10 +87,9 @@ This analysis can be utilized for:
 
 ## 👨‍💻 Author
 
-**Karmok3r**  
-*GIS Analyst & Civil Engineer*
+**Uday Karmoker**  
+*Jr. Design Engineer, DSIP DWASA*
 
-📧 [Contact via GitHub](https://github.com/karmok3r)  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 📊 [Portfolio](https://github.com/karmok3r)
 
